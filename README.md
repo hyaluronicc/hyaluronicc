@@ -1,10 +1,12 @@
 ### simple cvs 👋
 
-- Position: data science/data engineering
+### Position
+- data science/data engineering
 
-- Interest: ETL(Airflow, SSIS), SQL(MSSQL, Postgresql, Oracle), Cloud Services(GCP, Azure, AWS), ML/DL(NLP), Visualization(Power BI, Tableau)
+### Interest
+- ETL(Airflow, SSIS), SQL(MSSQL, Postgresql, Oracle), Cloud Services(GCP, Azure, AWS), ML/DL(NLP), Visualization(Power BI, Tableau)
 
-Experience
+### Experience
 - 10x10
 - 2021.04~
 - Full Time
@@ -25,7 +27,7 @@ Experience
 - https://content.v.daum.net/v/ccfBWzTbG6
 
 
-- Education
+### Education
 - Yonsei University
 - MS in Digital Analytics(2020.8)
 - Courses taken: Machine Learning, Database Management, Computer Programming, Text Mining, AI and Deep Learning, The Basics of Big Data Analytics(Pandas), Natural Language Processing and deep learning, Data Mining, Recommender System, Statistical analysis of big data, Big data parallel processing, practical big data analytics
@@ -49,19 +51,19 @@ Crawling, Data Engineering
 Used Transformer model
 
 
-Skill
+### Skill
 -python, linux
 -AWS, GCP, Azure
 -Power BI, Tableau
 
 
-Certificate
+### Certificate
 -정보처리기사
 -SQLD, ADsP
 -사회조사분석사
 -AZ-900
 
-Awards
+### Awards
 -농식품 공공 및 빅데이터 활용 창업경진대회 우수상(2019)
 Korea Agency of Education, Promotion and Information Service in Food, Agriculture, Forestry and Fisheries (EPIS)
 
