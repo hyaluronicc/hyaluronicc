@@ -7,14 +7,15 @@
 - ETL(Airflow, SSIS), SQL(MSSQL, Postgresql, Oracle), Cloud Services(GCP, Azure, AWS), ML/DL(NLP), Visualization(Power BI, Tableau)
 
 ### Experience
-- 10x10, 2021.04~, Full Time
+10x10, 2021.04~, Full Time
 - 유사상품 매핑, 주문별 화폐단위별 매출 분할 수정, 영업MD용 매출 자료 시각화(Power BI), SSIS ETL(Redshift) 오류 수정, SSIS ETL pipelie→ airflow 이관 작업
 
-
-- EY Korea, 2020.10~2021.04, Intern
+\n
+EY Korea, 2020.10~2021.04, Intern
 - 회계데이터 부정 시나리오 SQL작성 및 검토, 전표 및 시산표에 대한 이해, Alteryx, 회계데이터 시각화
 
-- JobsN
+\n
+JobsN
 - 2018.12~2019.02, Contents intern, 직업 관련 취재 및 기사작성, 잡스엔 채널관리
 - 100만뷰 기사 작성(https://content.v.daum.net/v/cdtINopv00 ,  https://content.v.daum.net/v/ccfBWzTbG6)
 
