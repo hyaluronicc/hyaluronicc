@@ -1,7 +1,7 @@
 ### simple cvs 👋
 
 ### Position
-- data science/data engineering
+- data engineering
 
 ### Interest
 - ETL(Airflow, SSIS), SQL(MSSQL, Postgresql, Oracle), Cloud Services(GCP, Azure, AWS), ML/DL(NLP), Visualization(Power BI, Tableau)
@@ -27,7 +27,11 @@ Yonsei University
 
 
 ### Project
-2021~
+2022~
+- SAP, airflow
+: BO, BW
+
+2021~2022
 - SSIS to Airflow
 : changed ETL process to Airflow, Airflow 2.1.3, Ubuntu 20.04
 
@@ -44,7 +48,7 @@ Yonsei University
 
 
 ### Certificate
--정보처리기사, SQLD, ADsP, 사회조사분석사, AZ-900
+-정보처리기사, 리눅스2급, SQLD, ADsP, 사회조사분석사, AZ-900
 
 ### Awards
 - 농식품 공공 및 빅데이터 활용 창업경진대회 우수상(2019)
